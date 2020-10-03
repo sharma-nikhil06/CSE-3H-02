@@ -1,4 +1,8 @@
-void sum(int x,int y){
-c=a+b;
-printf("%d",c);
-}
+#include<stdio.h> 
+  
+int main() 
+{    
+    char str[] = "Hello people we are here to learn C"; 
+    printf("%s",str);       
+    return 0; 
+} 
